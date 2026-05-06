@@ -4,10 +4,10 @@
 
 # EXAMPLE -- replace or delete
 - image: Nikki.jpg
-  url: https://www.nsf.gov/
+  url: https://www.jgcs.or.jp/
 - image: Lotte.jpg
-  url: https://www.energy.gov/
+  url: https://www.lottefoundation.jp/scholarship/
 - image: Korea.png
-  url: https://www.onr.navy.mil/
+  url: https://namu.wiki/w/%ED%95%9C%EC%9D%BC%EA%B3%B5%EB%8F%99%EC%9D%B4%EA%B3%B5%EA%B3%84%ED%95%99%EB%B6%80%EC%9C%A0%ED%95%99
 - image: Japan.png
-  url: https://www.nih.gov/
+  url: https://namu.wiki/w/%ED%95%9C%EC%9D%BC%EA%B3%B5%EB%8F%99%EC%9D%B4%EA%B3%B5%EA%B3%84%ED%95%99%EB%B6%80%EC%9C%A0%ED%95%99
