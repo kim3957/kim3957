@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1728 768" role="img" aria-label="Teleoperation and Communication Delay Compensation">
+  <rect width="1728" height="768" fill="#eeeae2"/>
+  
+  <circle cx="460" cy="350" r="95" stroke="#3f7d72" stroke-width="16" fill="none"/>
+  <circle cx="1268" cy="350" r="95" stroke="#3f7d72" stroke-width="16" fill="none"/>
+  <path d="M555 350 C700 245, 815 455, 960 350 C1080 265, 1120 350, 1173 350" stroke="#a85b1e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M390 350 L335 350 M460 280 L460 225 M530 350 L585 350 M460 420 L460 475" stroke="#3f7d72" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M1198 350 L1143 350 M1268 280 L1268 225 M1338 350 L1393 350 M1268 420 L1268 475" stroke="#3f7d72" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="460" cy="350" r="18" fill="#3f7d72"/><circle cx="1268" cy="350" r="18" fill="#3f7d72"/>
+  <text x="864" y="670" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#777777">Teleoperation &amp; Delay Compensation</text>
+
+</svg>

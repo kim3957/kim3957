@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1728 768" role="img" aria-label="Radar Sensing and Human Robot Safety">
+  <rect width="1728" height="768" fill="#eeeae2"/>
+  
+  <circle cx="410" cy="395" r="45" fill="#3f7d72"/>
+  <path d="M470 395 C610 280, 760 280, 900 395" stroke="#3f7d72" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M510 395 C635 325, 735 325, 860 395" stroke="#3f7d72" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M550 395 C650 360, 720 360, 820 395" stroke="#3f7d72" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M930 505 L1035 265 L1140 505 M975 405 L1095 405" stroke="#a85b1e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M1210 505 L1210 295 L1320 420 L1430 295 L1430 505" stroke="#a85b1e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="1035" cy="265" r="18" fill="#a85b1e"/><circle cx="1210" cy="295" r="14" fill="#a85b1e"/><circle cx="1430" cy="295" r="14" fill="#a85b1e"/>
+  <text x="864" y="670" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#777777">Radar Sensing &amp; Human–Robot Safety</text>
+
+</svg>

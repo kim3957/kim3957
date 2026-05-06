@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1728 768" role="img" aria-label="Digital Twin and Simulation">
+  <rect width="1728" height="768" fill="#eeeae2"/>
+  
+  <rect x="420" y="230" width="220" height="220" rx="24" stroke="#3f7d72" stroke-width="16" fill="none"/>
+  <rect x="1088" y="230" width="220" height="220" rx="24" stroke="#3f7d72" stroke-width="16" fill="none" stroke-dasharray="28 22"/>
+  <path d="M640 340 C760 220, 968 460, 1088 340" stroke="#a85b1e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M640 395 C770 515, 958 175, 1088 285" stroke="#a85b1e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="530" cy="340" r="42" fill="#3f7d72"/><circle cx="1198" cy="340" r="42" fill="#3f7d72"/>
+  <path d="M505 340 L555 340 M530 315 L530 365" stroke="#eeeae2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M1173 340 L1223 340 M1198 315 L1198 365" stroke="#eeeae2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="864" y="670" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#777777">Digital Twin &amp; Simulation</text>
+
+</svg>

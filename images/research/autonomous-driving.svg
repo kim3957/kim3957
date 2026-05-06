@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1728 768" role="img" aria-label="End-to-End Autonomous Driving">
+  <rect width="1728" height="768" fill="#eeeae2"/>
+  
+  <path d="M300 465 C500 370, 680 330, 864 330 C1048 330, 1230 370, 1428 465" stroke="#3f7d72" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M360 515 C525 430, 705 390, 864 390 C1023 390, 1203 430, 1368 515" stroke="#3f7d72" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M715 505 L760 395 C775 360, 815 340, 864 340 C913 340, 953 360, 968 395 L1013 505 Z" stroke="#a85b1e" stroke-width="16" fill="none" stroke-linejoin="round"/>
+  <circle cx="765" cy="505" r="34" fill="#24211f"/><circle cx="963" cy="505" r="34" fill="#24211f"/>
+  <path d="M864 280 L864 225" stroke="#a85b1e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M785 288 L745 245" stroke="#a85b1e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M943 288 L983 245" stroke="#a85b1e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="864" y="670" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#777777">End-to-End Autonomous Driving</text>
+
+</svg>

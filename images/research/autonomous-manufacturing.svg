@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1728 768" role="img" aria-label="AI-Based Autonomous Manufacturing">
+  <rect width="1728" height="768" fill="#eeeae2"/>
+  
+  <path d="M310 520 L310 340 L430 410 L430 340 L550 410 L550 300 L670 300 L670 520 Z" stroke="#3f7d72" stroke-width="16" fill="none" stroke-linejoin="round"/>
+  <path d="M770 520 L770 300 L900 300 L900 520 M770 380 L900 380" stroke="#3f7d72" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M1020 520 L1020 350 L1140 350 L1140 520 M1140 420 L1260 420 L1260 520" stroke="#3f7d72" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M360 255 C520 170, 700 250, 864 210 C1028 170, 1160 230, 1368 150" stroke="#a85b1e" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="360" cy="255" r="16" fill="#a85b1e"/><circle cx="864" cy="210" r="16" fill="#a85b1e"/><circle cx="1368" cy="150" r="16" fill="#a85b1e"/>
+  <text x="864" y="670" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#777777">AI-Based Autonomous Manufacturing</text>
+
+</svg>

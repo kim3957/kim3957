@@ -4,56 +4,55 @@ layout: gridlay
 sitemap: false
 permalink: /research/
 ---
-
 ## Research
 
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/autonomous-driving.svg" class="research-thumb" alt="Autonomous driving">
 <div class="research-body">
-<h4 class="research-title">Quantum Electrodynamics</h4>
-<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+<h4 class="research-title">End-to-End Autonomous Driving</h4>
+<p class="research-desc">Research on AI-driven autonomous driving systems capable of directly mapping multimodal sensor inputs to driving actions. This work focuses on robust perception, behavioral learning, real-time vehicle control, and scalable data-driven architectures for intelligent mobility systems operating in complex urban environments.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/teleoperation.svg" class="research-thumb" alt="Teleoperation system">
 <div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<h4 class="research-title">Teleoperation & Communication Delay Compensation</h4>
+<p class="research-desc">Development of safe teleoperation frameworks resilient to stochastic communication delays and network outliers. The research introduces asynchronous filtering, state estimation, and AI-based compensation strategies for remotely operated vehicles and robotic systems in real-world wireless communication environments.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/humanoid-ai.svg" class="research-thumb" alt="Humanoid robot">
 <div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<h4 class="research-title">Physical AI for Humanoid Robotics</h4>
+<p class="research-desc">Research on physical AI architectures enabling humanoid robots to autonomously interact with dynamic industrial and human-centered environments. This work integrates reinforcement learning, imitation learning, multimodal perception, and whole-body motion control for intelligent autonomous manipulation and collaborative robotics.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/autonomous-manufacturing.svg" class="research-thumb" alt="Smart factory">
 <div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<h4 class="research-title">AI-Based Autonomous Manufacturing</h4>
+<p class="research-desc">Development of AI-driven autonomous manufacturing systems for industrial automation and adaptive process control. The research focuses on intelligent robotic assembly, quality prediction, anomaly detection using thermal vision, and real-time optimization of manufacturing workflows through machine learning and industrial AI.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/digital-twin.svg" class="research-thumb" alt="Digital twin">
 <div class="research-body">
-<h4 class="research-title">Nanotechnology</h4>
-<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
+<h4 class="research-title">Digital Twin & Simulation</h4>
+<p class="research-desc">Construction of digital twin environments for robotics and mobility systems to enable virtual validation, reinforcement learning, and predictive system analysis. This research combines real-time synchronization, physics-based simulation, and AI-assisted optimization to improve safety and operational reliability.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/radar-sensing.svg" class="research-thumb" alt="Radar sensing">
 <div class="research-body">
-<h4 class="research-title">Weak Interactions</h4>
-<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
+<h4 class="research-title">Radar Sensing & Human–Robot Safety</h4>
+<p class="research-desc">Research on radar-based sensing technologies for safe human–robot collaboration in industrial environments. This work includes probabilistic intrusion estimation, safety monitoring, MIMO radar filtering, and adaptive separation distance control for collaborative robotic systems operating alongside humans.</p>
 </div>
 </div>
 

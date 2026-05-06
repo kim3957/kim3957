@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1728 768" role="img" aria-label="Physical AI for Humanoid Robotics">
+  <rect width="1728" height="768" fill="#eeeae2"/>
+  
+  <circle cx="864" cy="180" r="58" stroke="#3f7d72" stroke-width="16" fill="none"/>
+  <path d="M864 245 L864 420" stroke="#3f7d72" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M760 315 L864 260 L968 315" stroke="#3f7d72" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M864 420 L770 555 M864 420 L958 555" stroke="#3f7d72" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M650 210 C760 120, 968 120, 1078 210" stroke="#a85b1e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M610 275 C760 155, 968 155, 1118 275" stroke="#a85b1e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M715 178 L685 135 M1013 178 L1043 135" stroke="#a85b1e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="864" cy="315" r="22" fill="#a85b1e"/>
+  <text x="864" y="670" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#777777">Physical AI for Humanoid Robotics</text>
+
+</svg>
