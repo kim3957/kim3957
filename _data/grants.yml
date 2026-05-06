@@ -1,5 +1,42 @@
 # Grants and funding, shown on the About page.
 # Each entry needs: name
-- name: 
-- name: ONR Contract for Parallel Computing Research
-- name: DOE Grant for Parton Model Development
+
+- name: (2016~2019) 일본 아이치현 / 차세대 로봇 사회 형성 기술 개발 프로젝트 / Aichi Next-Generation Robot Social Implementation Project for Human–Robot Collaborative Automation and Safety Technologies
+
+- name: (2020~2025) 기획재정부(KITECH) / 융복합생산기술제조혁신연구개발 / 제품 제조현장 작업파트너 로봇 기술 개발 / KITECH Convergent Manufacturing Innovation R&D Program for Partner Robot Technology Development at Manufacturing Worksites
+
+- name: (2020~2022) 중소벤처기업부 / 광주 무인 저속 특장차(모빌리티) 규제자유특구육성 사업화지원 / Gwangju Autonomous Low-Speed Special Vehicle Mobility Regulatory-Free Zone Commercialization Support Project
+
+- name: (2021~2021) 중소벤처기업부 / 엣지형 공공정보 데이터 수집 공유 및 실증 / Edge-Based Public Data Collection, Sharing, and Demonstration Project for Autonomous Mobility and Remote Control Systems
+
+- name: (2021~2024) 산업통상자원부 / 저속 특수목적 전기구동 차량(모빌리티)을 위한 부품 생태계강화 기반구축 / Infrastructure Development Program for Strengthening the Component Ecosystem of Low-Speed Electric Mobility Vehicles
+
+- name: (2021~2022) 산업통상자원부 / 친환경 자동차부품 클러스터 조성 / Eco-Friendly Automotive Parts Cluster Development Project
+
+- name: (2022~2022) 산업통상자원부 / 자율주행분야 데이터 표준 개발 및 실증체계 구축 / Autonomous Driving Data Standardization and Demonstration Framework Development Project
+
+- name: (2022~2023) 중소벤처기업부 / 2차 광주특구(무인저속특장차/모빌리티) 안착화 지원사업 / Gwangju Regulatory-Free Zone Settlement Support Project for Autonomous Low-Speed Mobility Vehicles
+
+- name: (2022~2026) 산업통상자원부(KEIT) / 산업기술혁신사업 / 종횡방향 확장 운영 가능형 산업용 스케이트보드 개발 / Development of an Expandable Industrial Skateboard Platform with Longitudinal and Lateral Operations
+
+- name: (2024~2025) 과학기술정보통신부(연구개발특구진흥재단) / 연구개발특구육성사업 / 고령 친화 모빌리티 주행보조 및 자율주행 기술 개발 / Development of Elderly-Friendly Mobility Assistance and Autonomous Driving Technology
+
+- name: (2024~2024) 중소벤처기업부 / 규제자유특구혁신사업육성(과제발굴 등) / Regulatory-Free Special Zone Innovation Promotion Project for Technology Discovery and Industrial Support
+
+- name: (2024~2027) 산업통상자원부(KEIT) / 산업기술개발사업 / 가전 공장의 비정형 생산제품의 고품질 관리를 위한 AI 기반 장비 제어 및 자율제조 운영 기술 개발 / AI-Based Equipment Control and Autonomous Manufacturing Operation Technology for High-Quality Management of Non-Standard Products in Home Appliance Factories
+
+- name: (2024~2026) 민간수탁 / 공공기관수탁 연구용역 / AI솔루션 실증 지원사업 수혜기업 컨설팅 용역 / Consulting Project for Beneficiary Companies of the AI Solution Demonstration Support Program
+
+- name: (2025~2025) 기획재정부(KITECH) / 연구개발적립금사업 / KITECH 첨단로봇·제조 역량강화 사업 / KITECH Advanced Robotics and Manufacturing Capability Enhancement Project
+
+- name: (2025~2026) 민간수탁 / 공공기관수탁 연구용역 / 지역 특화 AI 융합 모빌리티·스마트제조·역량 강화 재직자 교육과정 및 운영 용역 / Regional AI-Converged Mobility and Smart Manufacturing Workforce Training Program
+
+- name: (2025~2026) 민간수탁 / 공공기관수탁 연구용역 / AI기반 고출력레이저 응용 원전 제염·해체 실증플랫폼 구축 기획 / Planning of AI-Based High-Power Laser Application Demonstration Platform for Nuclear Decontamination and Decommissioning
+
+- name: (2025~2027) 산업통상자원부(KEIT) / 수송기기기술개발사업 / 교통약자를 위한 AI 기반 능동형 운전자 어시스턴스 시스템·서비스 개발 / AI-Based Active Driver Assistance System and Service for Mobility-Disadvantaged Users
+
+- name: (2025~2028) 산업통상자원부(KEIT) / 기계산업핵심기술개발사업 / 다품종 차량 조명 모듈 자율조립을 위한 AI 기반 복합공정 자율제어 시스템 개발 / AI-Based Autonomous Multi-Process Control System for Multi-Variant Vehicle Lighting Module Assembly
+
+- name: (2026~2026) 기획재정부(KITECH) / 생산기술제조혁신실용화지원사업 / 제조산업 인공지능 전환을 위한 실증 프로젝트운영 총괄지원사업 / Demonstration Project Management Support Program for AI Transformation in Manufacturing Industries
+
+- name: (2026~2026) 기획재정부(KITECH) / 연구개발적립금사업 / 휴머노이드 자율작업을 위한 Physical AI 및 핵심 요소기술 개발 / Physical AI and Core Technology Development for Humanoid Autonomous Manipulation
