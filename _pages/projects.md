@@ -1,11 +1,11 @@
 ---
-title: "Software"
+title: projects
 layout: gridlay
 sitemap: false
-permalink: /software/
+permalink: /projects/
 ---
 
-## Software
+## Project
 
 <div class="section-card">
 <h4>Path Integral Monte Carlo</h4>

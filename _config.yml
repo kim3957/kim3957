@@ -5,7 +5,7 @@ name: "Eugene Kim"
 title: "physical Human-Robot-Insteraction (pHRI)"
 institution: "Korea Insitute of Industrial Technology"
 email: egkim@kitech.re.kr
-photo: headshot.jpg  # place your photo in images/
+photo: kim.jpg  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
@@ -14,17 +14,13 @@ links:
   google_scholar: "https://scholar.google.com/citations?user=Xp1cT4MAAAAJ&hl=ko"
   github: "https://github.com/kim3957"
   researchgate: "https://www.researchgate.net/profile/Eugene-Kim-18?ev=hdr_xprf"
-  orcid: ""
-  twitter: ""
-  linkedin: ""
-  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Academic webpage of Dr. Eugene Kim"
 baseurl: ""
 url: ""
 
@@ -38,13 +34,11 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
   - name: research
-  - name: software
+  - name: projects
   - name: team
   - name: teaching
-  - name: blogs
-
+  
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
 # ============================================================
