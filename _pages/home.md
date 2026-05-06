@@ -9,12 +9,12 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">End-to-End Autonomous Driving</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Teleoperation & Delay Compensation</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Physical AI for Humanoid Robotics</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">AI-Based Autonomous Manufacturing</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Digital Twin & Simulation</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Radar Sensing & Human–Robot Safety</a>
 </div>
 
 
