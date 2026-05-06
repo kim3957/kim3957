@@ -72,8 +72,8 @@ plugins:
   - jekyll-sitemap
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Kim
+  first_name: [Eugene]
   style: citesty
   locale: en
   source: /assets/
