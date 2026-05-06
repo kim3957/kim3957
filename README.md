@@ -464,16 +464,16 @@ The config file is organized into 4 numbered steps:
 
 ### Data Files
 
-| File | Purpose |
-|------|---------|
-| `_data/team_members.yml` | Current students and postdocs |
-| `_data/alumni.yml` | Former lab members |
-| `_data/news.yml` | News items (3 most recent shown on home) |
-| `_data/awards.yml` | Awards and honors |
-| `_data/grants.yml` | Grants and funding |
-| `_data/funders.yml` | Funder logos |
-| `_data/people.yml` | Students and mentees |
-| `_data/pi.yml` | Optional: detailed education for About page |
+| File                     | Purpose                                     |
+| ------------------------ | ------------------------------------------- |
+| `_data/team_members.yml` | Current students and postdocs               |
+| `_data/alumni.yml`       | Former lab members                          |
+| `_data/news.yml`         | News items (3 most recent shown on home)    |
+| `_data/awards.yml`       | Awards and honors                           |
+| `_data/grants.yml`       | Grants and funding                          |
+| `_data/funders.yml`      | Funder logos                                |
+| `_data/people.yml`       | Students and mentees                        |
+| `_data/pi.yml`           | Optional: detailed education for About page |
 
 Each file has inline comments explaining every field. Entries marked `# EXAMPLE` should be replaced or deleted.
 
