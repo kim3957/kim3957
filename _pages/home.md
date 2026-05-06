@@ -17,23 +17,18 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
 </div>
 
-Autonomous driving and intelligent robotics are interdisciplinary fields that focus on enabling machines to perceive, understand, and interact with complex real-world environments.  
+
+
+<div class="callout callout-success" markdown="0">
+<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> About research field</div>
+<p>Autonomous driving and intelligent robotics are interdisciplinary fields that focus on enabling machines to perceive, understand, and interact with complex real-world environments.  
 These fields combine robotics, artificial intelligence, control engineering, computer vision, and machine learning to develop systems capable of making decisions and performing tasks autonomously.
 
 Research in autonomous systems plays an important role in the future of mobility and manufacturing, ranging from self-driving vehicles and teleoperation to humanoid robotics and AI-driven industrial automation.  
 It helps us design safer and more adaptive systems that can collaborate with humans, respond to uncertain environments, and continuously improve through data and learning.
 
 My research particularly focuses on end-to-end autonomous driving, physical AI for humanoid robots, communication-delay-resilient teleoperation, and AI-based autonomous manufacturing systems.  
-Through integrating real-time control, digital twins, reinforcement learning, and multimodal sensor fusion, I aim to develop intelligent robotic systems capable of operating reliably in both industrial and everyday environments.
-
-<div class="callout callout-success" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
-</div>
-
-<div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
+Through integrating real-time control, digital twins, reinforcement learning, and multimodal sensor fusion, I aim to develop intelligent robotic systems capable of operating reliably in both industrial and everyday environments.</p>
 </div>
 
 ### About me
