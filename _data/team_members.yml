@@ -3,18 +3,26 @@
 # Optional: email, website, scholar, github, researchgate, cv
 # Photos go in images/ or images/team/
 
-- name: George Zweig
+- name: Chanyoung Jeong
   photo: team/george-zweig.svg
-  info: PhD Student, Quark Model
+  info: PhD Student, LLm, Action Models, holonomic/nonholonomic control
 
-- name: Albert Hibbs
+- name: Hwanhee Kang
   photo: team/albert-hibbs.svg
-  info: PhD Student, Quantum Mechanics
+  info: MS Student, recursive neural network, automation, timeseries, autonomous driving
 
-- name: Thomas Curtright
-  photo: team/thomas-curtright.svg
-  info: PhD Student, Quantum Field Theory
+- name: Jaeguk Byeon
+  photo: rock.jpg
+  info: MS Student, Lidar based research, automation, vision, autonomous driving
 
-- name: "This could be you!"
+- name: JongHyuk Ahn
+  photo: rock.jpg
+  info: See openings for more info
+
+- name: Subin yang
+  photo: rock.jpg
+  info: See openings for more info
+
+- name: Sangho Kim
   photo: rock.jpg
   info: See openings for more info
