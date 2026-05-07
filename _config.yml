@@ -37,7 +37,7 @@ nav_pages:
   - name: research
   - name: projects
   - name: team
-  - name: teaching
+#  - name: teaching
   
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
