@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: Research
 layout: gridlay
-sitemap: false
+sitemap: true
 permalink: /research/
 ---
 ## Research

@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: publications
-sitemap: false
+sitemap: true
 permalink: /publications/
 ---
 
