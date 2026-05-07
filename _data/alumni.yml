@@ -2,17 +2,7 @@
 # Each entry needs: name, duration, info
 # Optional: photo, email
 
-- name: Albert Hibbs
+- name: Lim Tae Yoon
   photo: team/albert-hibbs.svg
-  duration: 1951-55
-  info: Now at Jet Propulsion Laboratory
-
-- name: William Frazer
-  photo: team/william-frazer.svg
-  duration: 1954-58
-  info: Now Professor at UC San Diego
-
-- name: Robert Hellwarth
-  photo: team/robert-hellwarth.svg
-  duration: 1952-56
-  info: Now Professor at USC
+  duration: 2024-2026
+  info: Now at GAMA (Gwangju Future Automotive Mobility Agency)
