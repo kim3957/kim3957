@@ -15,6 +15,7 @@ permalink: /projects/
 </div>
 <p><strong>Authors:</strong> <em>R. P. Feynman, A. Hibbs</em></p>
 <p>A Monte Carlo simulation code for computing quantum mechanical path integrals in many-body systems. Used to study the lambda transition in liquid helium and other quantum statistical mechanics problems.</p>
+{% include youtube.html id="3sLLcZqWXEY" title="Path Integral Monte Carlo project video" %}
 </div>
 
 <div class="section-card">
