@@ -1,22 +1,24 @@
 // =============================================================
-// Typography — Source Serif + DM Sans
+// Typography - Source Serif + DM Sans + Pretendard
 // =============================================================
 // Fonts loaded via <link> in head.html.
 // Source Serif 4: elegant variable-weight serif for headings
-// DM Sans: clean geometric sans for body with personality
+// DM Sans: clean geometric sans for Latin body text
+// Pretendard: polished Korean fallback
 
 body {
-  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, sans-serif;
+  font-family: 'DM Sans', 'Pretendard Variable', Pretendard, -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans KR', sans-serif;
   font-size: 1rem;
   line-height: 1.75;
   font-optical-sizing: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Source Serif 4', 'Georgia', 'Times New Roman', serif;
+  font-family: 'Source Serif 4', 'Pretendard Variable', Pretendard, 'Noto Sans KR',
+    'Georgia', 'Times New Roman', serif;
   font-weight: 700;
-  letter-spacing: -0.01em;
+  letter-spacing: 0;
   color: var(--text-primary);
   margin-top: var(--space-10);
   margin-bottom: var(--space-4);
@@ -80,7 +82,7 @@ ul, ol {
   color: var(--text-muted) !important;
 }
 
-// MathJax — inherit text color in both modes
+// MathJax ??inherit text color in both modes
 mjx-container,
 mjx-container svg {
   color: var(--text-primary) !important;
