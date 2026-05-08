@@ -8,13 +8,13 @@ permalink: /projects/
 ## Project
 
 <div class="section-card">
-<h4>Path Integral Monte Carlo</h4>
+<h4>AI based wedling algorithm</h4>
 <div class="pub-actions" style="margin-bottom: var(--space-3);">
 <a href="https://example.com" target="_blank" class="btn-pill btn-website">Website</a>
 <a href="https://github.com" target="_blank" class="btn-pill btn-git">Git</a>
 </div>
-<p><strong>Authors:</strong> <em>R. P. Feynman, A. Hibbs</em></p>
-<p>A Monte Carlo simulation code for computing quantum mechanical path integrals in many-body systems. Used to study the lambda transition in liquid helium and other quantum statistical mechanics problems.</p>
+<p><strong>Contributors:</strong> <em>Eugene Kim, Hwanhee Kang, Subin Yang</em></p>
+<p>Brazing is well known method to bond copper pipe in the manner that reduces the manufacturing time most. Here we developed AI based bonding position recognition, target estimation, and precise control of the collaborative robot.</p>
 {% include youtube.html id="3sLLcZqWXEY" title="Path Integral Monte Carlo project video" %}
 </div>
 
