@@ -2,6 +2,7 @@
 title: Publications
 layout: publications
 sitemap: true
+description: "Journal articles and conference publications by Eugene Kim and collaborators."
 permalink: /publications/
 ---
 

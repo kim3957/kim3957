@@ -2,6 +2,7 @@
 title: About
 layout: gridlay
 sitemap: true
+description: "About Eugene Kim, researcher in physical human-robot interaction at the Korea Institute of Industrial Technology."
 permalink: /about/
 ---
 

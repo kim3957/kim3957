@@ -1,6 +1,7 @@
 ---
 title: "Home"
 layout: homelay
+description: "Academic homepage of Eugene Kim, covering physical human-robot interaction, autonomous mobility, physical AI, and AI-based manufacturing research."
 permalink: /
 ---
 

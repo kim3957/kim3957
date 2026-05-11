@@ -2,6 +2,7 @@
 title: Team
 layout: gridlay
 sitemap: true
+description: "Team members and collaborators working with Eugene Kim on physical human-robot interaction and intelligent robotics research."
 permalink: /team/
 ---
 

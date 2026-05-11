@@ -2,6 +2,7 @@
 title: Research
 layout: gridlay
 sitemap: true
+description: "Research areas of Eugene Kim, including autonomous driving, teleoperation, physical AI, digital twins, humanoid robotics, and AI-based manufacturing."
 permalink: /research/
 ---
 ## Research

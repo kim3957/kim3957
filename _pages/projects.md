@@ -1,6 +1,7 @@
 ---
 title: projects
 layout: gridlay
+description: "Research and engineering projects by Eugene Kim, including AI-based welding, robotics, and manufacturing automation demonstrations."
 permalink: /projects/
 ---
 
