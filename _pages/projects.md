@@ -20,7 +20,11 @@ sitemap: true
 <p><strong>Period:</strong> <em>2026-2027</em></p>
 <p><strong>Funding Agency:</strong> <em>KITECH / Ministry of Economy and Finance</em></p>
 <p>Development of Physical AI and core technologies for humanoid autonomous manipulation and intelligent robotic work systems.</p> 
-![](images/Pasted%20image%2020260514012135.png)
+<img  
+src="{{ '/images/Pasted image 20260514012135.png' | relative_url }}"  
+width="100%"  
+style="border-radius:12px; margin-top:12px;"  
+>
 </div>
 
 <div class="section-card">
