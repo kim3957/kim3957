@@ -41,6 +41,9 @@ sitemap: true
 <p><strong>Period:</strong> <em>2025–2027</em></p>
 <p><strong>Funding Agency:</strong> <em>KEIT / MOTIE</em></p>
 <p>Development of AI-based active driver assistance systems and mobility services for transportation-disadvantaged users.</p>
+
+<img src="{{ '/images/Pasted image 2020260514014044.png' | relative_url }}" width="100%" style="border-radius:12px; margin-top:12px;">  
+
 </div>
 
 <div class="section-card">
