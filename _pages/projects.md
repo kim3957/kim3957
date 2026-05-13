@@ -25,6 +25,11 @@ src="{{ '/images/Pasted image 20260514012135.png' | relative_url }}"
 width="100%"  
 style="border-radius:12px; margin-top:12px;"  
 >
+<img  
+src="{{ '/images/Pasted image 2020260514013322.png' | relative_url }}"  
+width="100%"  
+style="border-radius:12px; margin-top:12px;"  
+>
 </div>
 
 <div class="section-card">
