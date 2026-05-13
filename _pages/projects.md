@@ -32,7 +32,7 @@ sitemap: true
 <p><strong>Funding Agency:</strong> <em>KEIT / MOTIE</em></p>
 <p>Development of an AI-based autonomous multi-process control system for assembly of multi-variant vehicle lighting modules.</p>
 
-<img src="{{ '/images/Pasted image 2020260514013808.png' | relative_url }}" width="100%" style="border-radius:12px; margin-top:12px;">  
+<img src="{{ '/images/Pasted image 20260514013808.png' | relative_url }}" width="100%" style="border-radius:12px; margin-top:12px;">  
 
 </div>
 
@@ -42,7 +42,7 @@ sitemap: true
 <p><strong>Funding Agency:</strong> <em>KEIT / MOTIE</em></p>
 <p>Development of AI-based active driver assistance systems and mobility services for transportation-disadvantaged users.</p>
 
-<img src="{{ '/images/Pasted image 2020260514014044.png' | relative_url }}" width="100%" style="border-radius:12px; margin-top:12px;">  
+<img src="{{ '/images/Pasted image 20260514014044.png' | relative_url }}" width="100%" style="border-radius:12px; margin-top:12px;">  
 
 </div>
 
