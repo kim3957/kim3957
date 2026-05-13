@@ -31,6 +31,9 @@ sitemap: true
 <p><strong>Period:</strong> <em>2025–2028</em></p>
 <p><strong>Funding Agency:</strong> <em>KEIT / MOTIE</em></p>
 <p>Development of an AI-based autonomous multi-process control system for assembly of multi-variant vehicle lighting modules.</p>
+
+<img src="{{ '/images/Pasted image 2020260514013808.png' | relative_url }}" width="100%" style="border-radius:12px; margin-top:12px;">  
+
 </div>
 
 <div class="section-card">
