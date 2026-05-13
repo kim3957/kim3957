@@ -16,7 +16,7 @@ permalink: /projects/
 
 <div class="section-card">
 <h4>Physical AI for Humanoid Autonomous Manipulation</h4>
-<p><strong>Period:</strong> <em>2026</em></p>
+<p><strong>Period:</strong> <em>2026-2027</em></p>
 <p><strong>Funding Agency:</strong> <em>KITECH / Ministry of Economy and Finance</em></p>
 <p>Development of Physical AI and core technologies for humanoid autonomous manipulation and intelligent robotic work systems.</p>
 </div>
