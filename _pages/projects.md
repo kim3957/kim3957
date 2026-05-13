@@ -17,10 +17,22 @@ permalink: /projects/
 </div>
 
 <div class="section-card">
-<h4>QED Diagram Calculator</h4>
-<div class="pub-actions" style="margin-bottom: var(--space-3);">
-<a href="https://example.com" target="_blank" class="btn-pill btn-website">Website</a>
+<h4>AI-Based Active Driver Assistance System/Service</h4>
+<p><strong>Contributors:</strong> <em>Eugene Kim, Jonghyeok Ahn</em></p>
+<p>We collect action datasets aquired from reducded mobility persons and develop AI-based active driver assistance system.</p>
 </div>
-<p><strong>Authors:</strong> <em>R. P. Feynman</em></p>
-<p>A tool for systematically enumerating and evaluating Feynman diagrams in quantum electrodynamics calculations, automating the computation of scattering amplitudes to arbitrary order in perturbation theory.</p>
+
+<div class="section-card">
+<h4>AI-Based Active Driver Assistance System/Service</h4>
+<p><strong>Contributors:</strong> <em>Eugene Kim, Jonghyeok Ahn</em></p>
+<p>We collect action datasets aquired from reducded mobility persons and develop AI-based active driver assistance system.</p>
+</div>
+
+
+
+
+<div class="section-card">
+<h4>AI-Based Active Driver Assistance System/Service</h4>
+<p><strong>Contributors:</strong> <em>Eugene Kim, Jonghyeok Ahn</em></p>
+<p>We collect action datasets aquired from reducded mobility persons and develop AI-based active driver assistance system.</p>
 </div>
