@@ -15,21 +15,15 @@ sitemap: true
 <p>Project management and operational support program for manufacturing industry AI transformation demonstration projects.</p>
 </div>
 
-<div class="section-card">
-<h4>Physical AI for Humanoid Autonomous Manipulation</h4>
-<p><strong>Period:</strong> <em>2026-2027</em></p>
-<p><strong>Funding Agency:</strong> <em>KITECH / Ministry of Economy and Finance</em></p>
-<p>Development of Physical AI and core technologies for humanoid autonomous manipulation and intelligent robotic work systems.</p> 
-<img  
-src="{{ '/images/Pasted image 20260514012135.png' | relative_url }}"  
-width="100%"  
-style="border-radius:12px; margin-top:12px;"  
->
-<img  
-src="{{ '/images/Pasted image 2020260514013322.png' | relative_url }}"  
-width="100%"  
-style="border-radius:12px; margin-top:12px;"  
->
+<div class="section-card">  
+<h4>Physical AI for Humanoid Autonomous Manipulation</h4>  
+<p><strong>Period:</strong> <em>2026–2027</em></p>  
+<p><strong>Funding Agency:</strong> <em>KITECH / Ministry of Economy and Finance</em></p>  
+<p>Development of Physical AI and core technologies for humanoid autonomous manipulation and intelligent robotic work systems.</p>  
+  
+<img src="{{ '/images/Pasted image 20260514012135.png' | relative_url }}" width="100%" style="border-radius:12px; margin-top:12px;">  
+  
+<img src="{{ '/images/Pasted image 20260514013322.png' | relative_url }}" width="100%" style="border-radius:12px; margin-top:12px;">  
 </div>
 
 <div class="section-card">
