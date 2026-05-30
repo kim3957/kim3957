@@ -4,21 +4,16 @@ sitemap:
   exclude: 'yes'
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- PDF TEST VERSION 2026-05-30 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   {% for post in site.posts %}
     {% unless post.published == false %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
-      {% if post.sitemap.lastmod %}
-        <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif post.date %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      <changefreq>{% if post.sitemap.changefreq %}{{ post.sitemap.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if post.sitemap.priority %}{{ post.sitemap.priority }}{% else %}0.5{% endif %}</priority>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
     </url>
     {% endunless %}
   {% endfor %}
@@ -27,21 +22,15 @@ sitemap:
     {% unless page.sitemap.exclude == "yes" %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif page.date %}
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      <changefreq>{% if page.sitemap.changefreq %}{{ page.sitemap.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if page.sitemap.priority %}{{ page.sitemap.priority }}{% else %}0.3{% endif %}</priority>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
     </url>
     {% endunless %}
   {% endfor %}
 
   {% for file in site.static_files %}
-    {% if file.extname == ".pdf" and file.path contains "publications" %}
+    {% if file.extname == ".pdf" %}
     <url>
       <loc>{{ site.url }}{{ file.path }}</loc>
       <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
