@@ -10,7 +10,6 @@ sitemap:
     {% unless post.published == false %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
-
       {% if post.sitemap.lastmod %}
         <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
       {% elsif post.date %}
@@ -18,18 +17,8 @@ sitemap:
       {% else %}
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       {% endif %}
-
-      {% if post.sitemap.changefreq %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-      {% else %}
-        <changefreq>monthly</changefreq>
-      {% endif %}
-
-      {% if post.sitemap.priority %}
-        <priority>{{ post.sitemap.priority }}</priority>
-      {% else %}
-        <priority>0.5</priority>
-      {% endif %}
+      <changefreq>{% if post.sitemap.changefreq %}{{ post.sitemap.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if post.sitemap.priority %}{{ post.sitemap.priority }}{% else %}0.5{% endif %}</priority>
     </url>
     {% endunless %}
   {% endfor %}
@@ -38,7 +27,6 @@ sitemap:
     {% unless page.sitemap.exclude == "yes" %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-
       {% if page.sitemap.lastmod %}
         <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
       {% elsif page.date %}
@@ -46,33 +34,17 @@ sitemap:
       {% else %}
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       {% endif %}
-
-      {% if page.sitemap.changefreq %}
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-      {% else %}
-        <changefreq>monthly</changefreq>
-      {% endif %}
-
-      {% if page.sitemap.priority %}
-        <priority>{{ page.sitemap.priority }}</priority>
-      {% else %}
-        <priority>0.3</priority>
-      {% endif %}
+      <changefreq>{% if page.sitemap.changefreq %}{{ page.sitemap.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.sitemap.priority %}{{ page.sitemap.priority }}{% else %}0.3{% endif %}</priority>
     </url>
     {% endunless %}
   {% endfor %}
 
   {% for file in site.static_files %}
-    {% if file.extname == ".pdf" and file.path contains "/publications/" %}
+    {% if file.extname == ".pdf" and file.path contains "publications" %}
     <url>
-      <loc>{{ site.url }}{{ file.path | uri_escape }}</loc>
-
-      {% if file.modified_time %}
-        <lastmod>{{ file.modified_time | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      {% endif %}
-
+      <loc>{{ site.url }}{{ file.path }}</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       <changefreq>yearly</changefreq>
       <priority>0.7</priority>
     </url>
